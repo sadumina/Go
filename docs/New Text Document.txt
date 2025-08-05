@@ -1,0 +1,7 @@
+| Feature            | `int`                                 | `uint`                             |
+| ------------------ | ------------------------------------- | ---------------------------------- |
+| **Full name**      | Signed Integer                        | Unsigned Integer                   |
+| **Can store**      | Positive and Negative values          | Only Positive values (≥ 0)         |
+| **Size**           | 32-bit or 64-bit (platform-dependent) | Same as `int` (platform-dependent) |
+| **Example values** | `-10, 0, 15`                          | `0, 5, 1000`                       |
+| **Default zero**   | `0`                                   | `0`                                |
